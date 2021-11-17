@@ -1,6 +1,6 @@
 @echo off
 cls
-g++ ./*/*.cpp -o out
+g++ .\Project\*.cpp -o out
 echo ----- ----- -----
 echo   Build  Output
 echo ----- ----- -----
